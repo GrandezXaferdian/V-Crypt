@@ -8,4 +8,4 @@
 
 **Exam Schedule Page**
 
-![plot](./Pictures/exam_schedule_page.jpeg)
+![plot](./Pictures/exam_schedule_page.jpg)
